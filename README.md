@@ -126,23 +126,7 @@ eap {
 }
 ```
 
----
 
-## 💻 Côté client Linux
-
-* NetworkManager + wpa_supplicant
-* EAP-TTLS / MSCHAPv2
-* certificat CA requis
-
----
-
-## 🪟 Côté client Windows
-
-* Configuration via centre réseau
-* authentification utilisateur
-* possibilité de stocker les identifiants
-
----
 
 ## 📊 Logs utiles
 
