@@ -159,6 +159,7 @@ eap {
 * VLAN dynamique par profil
 * Support utilisateurs + équipements (MAB)
 
-```
+<img width="1408" height="768" alt="Gemini_Generated_Image_dm2ebadm2ebadm2e" src="https://github.com/user-attachments/assets/6f9664aa-16ae-475e-b27f-a8e874d4f3bb" />
+
 
 
