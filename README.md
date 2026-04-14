@@ -93,13 +93,13 @@ Exemple :
 
 ```bash
 if (User-Category == "staff") {
-    Tunnel-Private-Group-Id := 140
+    Tunnel-Private-Group-Id := **
 }
 elseif (User-Category == "student") {
-    Tunnel-Private-Group-Id := 142
+    Tunnel-Private-Group-Id := **
 }
 else {
-    Tunnel-Private-Group-Id := 132
+    Tunnel-Private-Group-Id := **
 }
 ```
 
